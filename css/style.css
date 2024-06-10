@@ -171,6 +171,11 @@ section {
   margin: auto 0;
 }
 
+.section__pic-container img {
+  border-radius: 100%;
+  border: 2px solid #000;
+}
+
 .section__text {
   align-self: center;
   text-align: center;
